@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1 group-title="央视-精选",CCTV1
+http://39.134.136.145:6610/000000001000/6000000001000029752/index.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3
+#EXTINF:-1 group-title="央视-精选",CCTV2
+http://39.134.136.145:6610/000000001000/6000000001000014161/index.m3u8?channel-id=wasusyt&Contentid=6000000001000014161&livemode=1&stbId=3
+#EXTINF:-1 group-title="央视-精选",CCTV3
+http://39.134.136.145:6610/000000001000/6000000001000022313/index.m3u8?channel-id=wasusyt&Contentid=6000000001000022313&livemode=1&stbId=3
+#EXTINF:-1 group-title="央视-精选",CCTV5
+http://39.134.136.145:6610/000000001000/6000000001000016431/index.m3u8?channel-id=wasusyt&Contentid=6000000001000016431&livemode=1&stbId=3
+#EXTINF:-1 group-title="央视-精选",CCTV5+
+http://39.134.136.145:6610/000000001000/6000000001000015875/index.m3u8?channel-id=wasusyt&Contentid=6000000001000015875&livemode=1&stbId=3
+#EXTINF:-1 group-title="央视-精选",CCTV6
+http://39.134.136.145:6610/000000001000/6000000001000004574/index.m3u8?channel-id=wasusyt&Contentid=6000000001000004574&livemode=1&stbId=3
+#EXTINF:-1 group-title="央视-精选",CCTV7
+http://39.134.136.145:6610/000000001000/6000000001000009055/index.m3u8?channel-id=wasusyt&Contentid=6000000001000009055&livemode=1&stbId=3
+#EXTINF:-1 group-title="央视-精选",CCTV8
+http://39.134.136.145:6610/000000001000/6000000001000001070/index.m3u8?channel-id=wasusyt&Contentid=6000000001000001070&livemode=1&stbId=3
+#EXTINF:-1 group-title="央视-精选",CCTV9
+http://39.134.136.145:6610/000000001000/6000000001000032162/index.m3u8?channel-id=wasusyt&Contentid=6000000001000032162&livemode=1&stbId=3
+#EXTINF:-1 group-title="央视-精选",CCTV10
+http://39.134.136.145:6610/000000001000/6000000001000031506/index.m3u8?channel-id=wasusyt&Contentid=6000000001000031506&livemode=1&stbId=3
+#EXTINF:-1 group-title="央视-精选",CCTV12
+http://39.134.136.145:6610/000000001000/6000000001000022586/index.m3u8?channel-id=wasusyt&Contentid=6000000001000022586&livemode=1&stbId=3
+#EXTINF:-1 group-title="央视-精选",CCTV14
+http://39.134.136.145:6610/000000001000/6000000001000013647/index.m3u8?channel-id=wasusyt&Contentid=6000000001000013647&livemode=1&stbId=3
 #EXTINF:-1 group-title="4K",BTV纪实科教 8K
 http://159.75.85.63:6798
 #EXTINF:-1 group-title="4K",CCTV16 4K
