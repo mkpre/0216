@@ -64,6 +64,48 @@ http://live.aptvapp.com/bestv.php?id=cctv15hd8m/8000000
 http://live.aptvapp.com/bestv.php?id=cctv16hd8m/8000000
 #EXTINF:-1 group-title="央视-精选",CCTV17
 http://live.aptvapp.com/bestv.php?id=cctv17hd8m/8000000
+
+#EXTINF:-1 group-title="卫视-精选",北京卫视
+http://adidaswkkchenrann.asuscomm.com:8012/rtp/239.3.1.241:8000
+#EXTINF:-1 group-title="卫视-精选",东方卫视
+http://adidaswkkchenrann.asuscomm.com:8012/rtp/239.3.1.136:8032
+#EXTINF:-1 group-title="卫视-精选",浙江卫视
+http://adidaswkkchenrann.asuscomm.com:8012/rtp/239.3.1.137:8036
+#EXTINF:-1 group-title="卫视-精选",江苏卫视
+http://adidaswkkchenrann.asuscomm.com:8012/rtp/239.3.1.135:8028
+#EXTINF:-1 group-title="卫视-精选",深圳卫视
+http://adidaswkkchenrann.asuscomm.com:8012/rtp/239.3.1.134:8020
+#EXTINF:-1 group-title="卫视-精选",广东卫视
+http://adidaswkkchenrann.asuscomm.com:8012/rtp/239.3.1.142:8048
+#EXTINF:-1 group-title="卫视-精选",安徽卫视
+http://adidaswkkchenrann.asuscomm.com:8012/rtp/239.3.1.211:8064
+#EXTINF:-1 group-title="卫视-精选",天津卫视
+http://adidaswkkchenrann.asuscomm.com:8012/rtp/239.3.1.141:1234
+#EXTINF:-1 group-title="卫视-精选",重庆卫视
+http://adidaswkkchenrann.asuscomm.com:8012/rtp/239.3.1.122:8160
+#EXTINF:-1 group-title="卫视-精选",山东卫视
+http://adidaswkkchenrann.asuscomm.com:8012/rtp/239.3.1.209:8052
+#EXTINF:-1 group-title="卫视-精选",黑龙江卫视
+http://adidaswkkchenrann.asuscomm.com:8012/rtp/239.3.1.133:8016
+#EXTINF:-1 group-title="卫视-精选",河北卫视
+http://adidaswkkchenrann.asuscomm.com:8012/rtp/239.3.1.148:8072
+#EXTINF:-1 group-title="卫视-精选",辽宁卫视
+http://adidaswkkchenrann.asuscomm.com:8012/rtp/239.3.1.210:8056
+#EXTINF:-1 group-title="卫视-精选",湖北卫视
+http://adidaswkkchenrann.asuscomm.com:8012/rtp/239.3.1.138:8044
+#EXTINF:-1 group-title="卫视-精选",吉林卫视
+http://adidaswkkchenrann.asuscomm.com:8012/rtp/239.3.1.240:8172
+#EXTINF:-1 group-title="卫视-精选",贵州卫视
+http://adidaswkkchenrann.asuscomm.com:8012/rtp/239.3.1.149:8076
+#EXTINF:-1 group-title="卫视-精选",东南卫视
+http://adidaswkkchenrann.asuscomm.com:8012/rtp/239.3.1.156:8148
+#EXTINF:-1 group-title="卫视-精选",江西卫视
+http://adidaswkkchenrann.asuscomm.com:8012/rtp/239.3.1.123:8164
+
+
+
+
+
 #EXTINF:-1 group-title="卫视-精选",浙江卫视
 http://live.aptvapp.com/bestv.php?id=zjwshd8m/8000000
 #EXTINF:-1 group-title="卫视-精选",北京卫视
